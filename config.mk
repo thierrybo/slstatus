@@ -4,7 +4,8 @@ VERSION = 0
 # customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+##PREFIX = /usr/local
+PREFIX = /home/thierrybo/.local
 MANPREFIX = $(PREFIX)/share/man
 
 X11INC = /usr/X11R6/include
